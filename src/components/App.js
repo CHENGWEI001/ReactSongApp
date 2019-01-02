@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { selectSong } from '../actions';
 import SongList from './SongList';
 import SongDetail from './SongDetail';
 
